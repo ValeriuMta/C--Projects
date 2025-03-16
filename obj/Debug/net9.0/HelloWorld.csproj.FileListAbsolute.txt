@@ -1,0 +1,14 @@
+/Users/valeriu/Desktop/C#/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/valeriu/Desktop/C#/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/valeriu/Desktop/C#/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/valeriu/Desktop/C#/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/valeriu/Desktop/C#/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/valeriu/Desktop/C#/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriu/Desktop/C#/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/valeriu/Desktop/C#/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/valeriu/Desktop/C#/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/valeriu/Desktop/C#/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/valeriu/Desktop/C#/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/valeriu/Desktop/C#/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/valeriu/Desktop/C#/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/valeriu/Desktop/C#/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
